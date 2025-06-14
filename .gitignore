@@ -161,3 +161,6 @@ cython_debug/
 demo/metadata_mouse.json
 demo/metadata_human.json
 results/
+demo/metadata_mouse.json
+demo/metadata_human.json
+results/
